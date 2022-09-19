@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathankothandam" alt="sathankothandam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sathan_kothandam" target="blank"><img src="https://img.shields.io/twitter/follow/sathan_kothandam?logo=twitter&style=for-the-badge" alt="sathan_kothandam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SathanKothandam" target="blank"><img src="https://img.shields.io/twitter/follow/sathan_kothandam?logo=twitter&style=for-the-badge" alt="sathan_kothandam" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [NA](NA)
 
