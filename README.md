@@ -50,3 +50,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathankothandam&show_icons=true&locale=en" alt="sathankothandam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathankothandam&" alt="sathankothandam" /></p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=sathankothandam&theme=xcode" height ="307"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
