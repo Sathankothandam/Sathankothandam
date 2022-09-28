@@ -1,5 +1,26 @@
+   <div  align="center">
+<img src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif"/></div>
+  
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Sathankumar</h1>
 <h3 align="center">A passionate full stack developer</h3>
+
+About me
+---
+
+I'm a Full Stack Web Developer.
+
+My field of Interest's are building new  Web Technologies and Products. and also in areas related to Deep Learning and Natural Launguage Processing.
+
+Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks  like React.js, Express
+
+I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathankothandam&label=Profile%20views&color=0e75b6&style=flat" alt="sathankothandam" /> </p>
 
@@ -7,13 +28,11 @@
 
 <p align="left"> <a href="https://twitter.com/SathanKothandam" target="blank"><img src="https://img.shields.io/twitter/follow/sathan_kothandam?logo=twitter&style=for-the-badge" alt="sathan_kothandam" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [NA](NA)
-
-- 📝 I regularly write articles on [NA](NA)
+- 👨‍💻 All of my projects are available at [https://sathankothandam.github.io/](NA)
 
 - 📫 How to reach me **sathankothandam@gmail.com**
 
-- 📄 Know about my experiences [NA](NA)
+- 📄 Know about my experiences [https://linkedin.com/in/sathan-kothandam](NA)
 
 - ⚡ Fun fact **I think I'm Funny.!**
 
