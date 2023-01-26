@@ -32,9 +32,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 - 📫 How to reach me **sathankothandam@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/sathan-kothandam](NA)
-
-- ⚡ Fun fact **I think I'm Funny.!**
+- 📄 Know about my experiences [https://www.linkedin.com/in/sathan-kothandam](NA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
